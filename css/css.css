@@ -1,0 +1,126 @@
+body {
+    background-color: #f0f0f0;
+}
+
+
+.antena {
+    background-color: rgb(46, 36, 160);
+    width: 10px; 
+    height: 50px;
+    position: relative;
+    left: 145px;
+    top: 20px;
+}
+
+.cabeza {
+    background-color: rgb(130, 120, 113);
+    width: 200px; 
+    height: 200px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+.ojo {
+    background-color: rgb(246, 234, 234);
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 50px;
+}
+
+.ojo-derecho {
+    left: 120px;
+}
+
+.ojo-izquierdo {
+    left: 40px;
+}
+
+.pupila {
+    background-color: rgb(106, 57, 167);
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.oreja {
+    background-color: rgb(46, 160, 36);
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+}
+
+.oreja-izquierda {
+    left: -30px;
+}
+
+.oreja-derecha {
+    right: -30px;
+}
+
+.nariz {
+    background-color: rgb(255, 213, 0);
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 85px;
+    top: 100px;
+    border-radius: 50%;
+}
+
+.boca {
+    background-color: rgb(173, 73, 138);
+    width: 80px;
+    height: 10px;
+    position: absolute;
+    left: 60px;
+    top: 150px;
+}
+
+.cuello {
+    background-color: rgb(69, 66, 63);
+    width: 50px; 
+    height: 50px;
+    position: relative;
+    left: 175px;
+    top: 20px;
+}
+
+.torso {
+    background-color: rgb(138, 127, 119);
+    width: 200px; 
+    height: 150px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+
+.rect {
+    background-color: rgb(46, 160, 36);
+    width: 120px;
+    height: 40px;
+    margin: 10px auto;
+    position: relative;
+}
+
+.cintura {
+    background-color: rgb(104, 101, 97);
+    width: 100px; 
+    height: 50px;
+    position: relative;
+    left: 150px;
+    top: 20px;
+}
+
+.pierna {
+    background-color: rgb(138, 133, 130);
+    width: 200px;
+    height: 150px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
